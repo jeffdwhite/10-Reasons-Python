@@ -6,3 +6,4 @@ The code used in the MuSigma Webinar "10 Reasons Why Every Actuary Should Know P
 3. indicaton.py - indication example in standard python code
 4. indication.ipynb - indication example in juypter notebook
 5. indication.xlsx - indication example in Excel
+6. indication_data.csv - data that feeds the python and juypter indication files
